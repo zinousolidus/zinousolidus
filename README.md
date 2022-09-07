@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zinousolidus
+- 👋 Hi, I’m Zinou
 - 👀 I’m interested in Blockchain developement
 - 🌱 I’m currently learning JavaScript and Solidity
 - 💞️ I’m looking to collaborate on web3 dapp 
